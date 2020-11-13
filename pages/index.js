@@ -10,7 +10,7 @@ const Home = ({data}) => {
   process.env.NODE_ENV === "development"
     ? "http://localhost:8888/"
     //: "http://localhost:8888"
-    : "https://quizzical-williams-4f9b3c.netlify.app/";
+    : "https://vigilant-murdock-c00015.netlify.app/";
    
   // let data = {
   //   calories: {
